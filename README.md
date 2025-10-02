@@ -1,1 +1,1 @@
-# Organizing-Containers-of-Balls-ALGO
+# Organizing-Containers-of-Balls-ALGO.This solution determines if balls can be reorganized so each container holds only one color by checking if the sorted container capacities (total balls per container) match the sorted ball type totals (total of each color across all containers).
